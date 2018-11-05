@@ -1,12 +1,11 @@
 package com.practice.TestEGit;
 
+import org.testng.annotations.Test;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest 
 {
-   public static void main(String args[]){
-	   
-   }
+	@Test
+	public void test1() {
+		System.out.println("testNG");
+	}
 }
