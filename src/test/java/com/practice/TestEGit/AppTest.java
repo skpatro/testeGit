@@ -6,5 +6,6 @@ package com.practice.TestEGit;
  */
 public class AppTest 
 {
-   
+   public static void main(string args[]){
+   }
 }
